@@ -6,7 +6,6 @@
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:150F33,50:1D2547,100:F5A623&height=215&section=header&text=Shipon%20Islam&fontColor=FFFFFF&fontSize=62&fontAlignY=36&desc=Full-Stack%20Web%20Developer%20%C2%B7%20React%20%7C%20Next.js%20%7C%20Node.js%20%7C%20Docker%20%7C%20n8n&descAlignY=58&descSize=17&animation=fadeIn" alt="Shipon Islam — Full-Stack Web Developer" />
-
 <a href="https://shiponislam.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=800&color=F5A623&center=true&vCenter=true&width=780&height=45&lines=Full-Stack+Web+Developer+%C2%B7+4%2B+years;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Tailwind+CSS;Node.js+%C2%B7+Express+%C2%B7+Python+%C2%B7+MongoDB+%C2%B7+Firebase;Docker+%C2%B7+Nginx+%C2%B7+Ubuntu+VPS+%C2%B7+GitHub+Actions;n8n+workflows+%26+AI+agents+that+save+hours;I+ship+a+live+preview+before+handover" alt="What I do" />
 </a>
