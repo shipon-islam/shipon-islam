@@ -11,7 +11,7 @@
 </a>
 
 <br />
-
+<br />
 <a href="https://shiponislam.com"><img src="https://img.shields.io/badge/Portfolio-shiponislam.com-F5A623?style=for-the-badge&logo=googlechrome&logoColor=150F33" alt="Portfolio" /></a> <a href="https://www.linkedin.com/in/shiponislam1"><img src="https://img.shields.io/badge/LinkedIn-Shipon%20Islam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://www.fiverr.com/shipon_islam1"><img src="https://img.shields.io/badge/Fiverr-Level%201%20Seller-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" /></a> <a href="mailto:shiponislam459@gmal.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://shiponislam.com/resume/Shipon_Official_Resume.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-Download-16A34A?style=for-the-badge" alt="Résumé" /></a>
 
 <br />
