@@ -24,9 +24,9 @@
 
 ## 👋 About Me
 
-<p align="center">
+<!-- <p align="center">
   <img width="150" src="https://images.weserv.nl/?url=shiponislam.com/portrait.PNG&w=320&h=320&fit=cover&mask=circle&output=webp&q=85" alt="Shipon Islam" />
-</p>
+</p> -->
 
 I build and ship web products end to end — the interface, the APIs and the database, then the server they run on.
 **4+ years** in, currently building at **[awtomatig](https://awtomatig.com)**, freelancing on **[Fiverr](https://www.fiverr.com/shipon_islam1)** as a **Level 1 seller**, and automating the repetitive parts with **n8n** and **AI agents**.
